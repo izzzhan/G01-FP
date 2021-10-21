@@ -1,5 +1,5 @@
 //
-//  Tema 2
+//  Guión 1 - Tema 2
 //  10. Diseñe un programa que halle la longitud, la superficie y el volumen de la circunferencia, círculo y esfera. 
 //  El programa deberá pedir el radio de la c ircunferencia.
 //
