@@ -1,5 +1,5 @@
 //
-//  Tema 2
+//  Guión 1 - Tema 2
 //  9. Determine cuáles de los siguientes identificadores son válidos. Si son inválidos explique por qué (pruébelos en el compilador):
 //  a) registro 1     b)1registro1          c)archivo_3           d) float       
 //  e) $impuesto      f) _nombre            g) nombre A           h) 123_opcion 
