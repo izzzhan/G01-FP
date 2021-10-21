@@ -1,0 +1,27 @@
+//
+//  Guión 1 - Tema 2
+//  11. Diseñe un programa que pida una cantidad en euros y devuelva su equivalente en dólares americanos
+//  y en libras esterlinas. Nota: Utilice constantes para guardar el valor cambio en euros del dólar
+//  americano y de las libras esterlinas.
+//
+//  @izzzhan
+//
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    float euros;
+    float dolares;
+    
+    cout << "Digite una cantidad en euros: ";
+    cin >> euros;
+    
+    // Conversión euros->dólares americanos
+    dolares = euros * 1.19;
+    
+    cout <<"\n" << euros << " € equivalen a: " << dolares << " $" << endl << endl;
+    
+    return 0;
+}
