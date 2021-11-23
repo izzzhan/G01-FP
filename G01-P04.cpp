@@ -15,7 +15,7 @@
 
      cout << "Digite un valor para a: "; cin >> a;
      cout << "Digite un valor para b: "; cin >> b;
-     cout << "\nba = " << a << "\nb = " << b;
+     cout << "\na = " << a << "\nb = " << b;
 
      // CAMBIAMOS LAS VARIABLES
      aux = a;
