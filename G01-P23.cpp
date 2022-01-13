@@ -1,6 +1,6 @@
 //
 // Guión 1 - Tema 2
-// 22. El estudio de las fuerzas de atracción o repulsión entre partículas cargadas fue realizado por el físico
+// 23. El estudio de las fuerzas de atracción o repulsión entre partículas cargadas fue realizado por el físico
 //  francés Coulomb, cuya ley dice lo siguiente:
 //      "Para cargas pequeñas (aproximadamente puntuales) la fuerza de atracción o de repulsión es directamente
 //      proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que
